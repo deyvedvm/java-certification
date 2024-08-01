@@ -35,5 +35,3 @@ public class Question31 {
 }
 
 // Answer: D. 16 true
-
-// Answer: D. None of the above.
